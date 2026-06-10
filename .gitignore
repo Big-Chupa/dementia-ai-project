@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Large datasets and local environment variables
+data/alzheimers_prediction_dataset.csv
+.env
+
+# System files
+.DS_Store
